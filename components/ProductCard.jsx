@@ -14,7 +14,7 @@ const ProductCard = () => {
 
           <p className="text-base  font-medium line-through">&#8377;1100</p>
           <p className="ml-auto text-base font-medium text-green-500">
-            20 % off
+            20% off
           </p>
         </div>
       </div>
