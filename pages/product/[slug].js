@@ -117,8 +117,13 @@ const ProductDetails = () => {
                                 Product Details
                             </div>
                             <div className="markdown text-md mb-5">
-                                Lorem ipsum dolor sit, amet consectetur adipisicing elit. Vel consequuntur nemo fugit ex recusandae laudantium nostrum, ducimus numquam modi architecto! <br /> <br/>
-                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid repudiandae nisi minima. Aliquam qui odit nisi atque sed, nobis laudantium!
+                            "You've got the hops and the speed—lace up in shoes that enhance what you bring to the court. The latest AJ is all about take-offs and landings, with multiple Air units to get you off the ground. The upper is made with strong, reinforced leno-weave fabric that'll keep you contained and leave your game uncompromised. This low-top model is designed for playing on outdoor courts. <br /> <br/>
+                            
+                            <ul className="list-disc">
+                                <li>Colour Shown: White/Siren Red/Black</li>
+                                <li>Style: DQ4123-100"
+</li>
+                            </ul>
                             </div>
                         </div>
                     </div>
